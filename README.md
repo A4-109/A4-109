@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A4-109
+- 👋 Hi, I’m @Alex N
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning HTML, CSS and javescript at the moment.
 - 💞️ I’m not really looking to collaborate on anything for now because i'm still on the learning process.
