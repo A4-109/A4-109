@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex N
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning HTML, CSS and javescript at the moment.
+- 🌱 I’m currently working on some HTML, CSS and javescript at the moment.
 - 💞️ I’m not really looking to collaborate on anything for now because i'm still on the learning process.
 - 📫 How to reach me alexcnwanya@gmail.com
 
